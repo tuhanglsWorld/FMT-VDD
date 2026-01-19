@@ -1,4 +1,4 @@
-# FMT-VDD: Video-Only Deception Detection from Facial Emotion Trajectories
+# FET-VDD: Video-Only Deception Detection from Facial Emotion Trajectories
 
 
 #### algorithm framework diagram
