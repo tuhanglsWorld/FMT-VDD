@@ -1,6 +1,5 @@
 # FET-VDD: Video-Only Deception Detection from Facial Emotion Trajectories
 
-
 #### algorithm framework diagram
 ![The algorithm framework diagram proposed.](./image/method.png)
 
